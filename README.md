@@ -29,7 +29,7 @@ Python Tetris is a classic Tetris game built using the Pygame library. The game 
 
 2. Install the Pygame library using pip:
 
-pip install pygame
+`pip install pygame`
 
 
 ### How to Play
